@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Murilo Borges
 
-Olá! Me chamo Murilo. Sou um estudante do Ensino Fundamental apaixonado por tecnologia e por entender como as coisas funcionam. Meu foco atual é dominar o desenvolvimento web e aprofundar meus conhecimentos em lógica de programação.
+Olá! Me chamo Murilo. Sou um estudante apaixonado por tecnologia e por entender como as coisas funcionam. Meu foco atual é dominar o desenvolvimento web e aprofundar meus conhecimentos em lógica de programação.
 
 ---
 
